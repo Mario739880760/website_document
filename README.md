@@ -6,6 +6,8 @@
 
 [免费3d模型](https://free3d.com/)
 
+[动效](https://techbrood.com/?o=vote%20DESC&q=)
+
 [日系配色](https://nipponcolors.com/)
 
 [geo绘制工具](http://geojson.io/#map=4/26.51/-78.27)
